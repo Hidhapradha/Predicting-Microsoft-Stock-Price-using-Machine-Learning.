@@ -1,6 +1,6 @@
 # Predicting-Microsoft-Stock-Price-using-Machine-Learning.
 
-## Overview
+## Project Overview
 This project focuses on predicting Microsoft's stock prices using machine learning techniques, specifically time series forecasting. Leveraging **TensorFlow**, an open-source machine learning framework developed by Google, I aim to build an end-to-end solution for accurate stock price prediction.
 
 ## Objective
